@@ -251,3 +251,7 @@ table {
     text-align: center;
     margin-bottom: 15px;
 }
+
+.icons a:not(:last-child) {
+    margin-right: 10px;
+}
