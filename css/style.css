@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+sup {
+    font-size: 0.6em;
+}
+
+.header {
+    height: 82px;
+}
+
+.header .lateral {
+    background-color: #dcdce5;
+}
+
+.header .basis {
+    background-color: #ffffff;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.basis {
+    max-width: 600px;
+}
+
+.lateral {
+    width: 50%;
+}
+
+.phone p {
+    text-align: right;
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+    font-family: "Arial";
+    text-align: right;
+}
+
+.phone a {
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+}
+
+.phone img {
+    margin-right: 8px;
+}
+
+.phone-menu {
+    padding-left: 103px;
+}
+
+.header-info {
+    width: 100%;
+}
+
+.header-info tr>td {
+    width: 50%;
+}
+
+.main .lateral {
+    background-color: #f5f5f5;
+}
+
+.hata-info h1 {
+    font-size: 24px;
+    line-height: 24px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    padding-top: 30px;
+    margin-bottom: 23px;
+}
+
+.hata-info p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+    font-family: "Arial";
+    max-width: 515px;
+    margin-bottom: 20px;
+}
+
+.hata-info a {
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+    text-align: center;
+}
+
+.hata-info .button {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-width: 180px;
+    border-radius: 20px;
+    background-color: #fd8300;
+    margin-bottom: 30px;
+}
+
+.hata-info td {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.locality {
+    background-color: #ededf5;
+}
+
+.locality>td {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 37px;
+    padding-bottom: 33px;
+}
+
+.locality h2 {
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.locality p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.pos {
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+.top-brochure>td,
+.center-brochure>td,
+.down-brochure>td {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom-color: #e3e3eb;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.down-brochure>td {
+    border-bottom-color: transparent;
+}
+
+.top-brochure img,
+.down-brochure img {
+    margin-right: 20px;
+}
+
+.center-brochure img {
+    margin-left: 50px;
+}
+
+.top-brochure a,
+.center-brochure a,
+.down-brochure a {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.top-brochure p,
+.center-brochure p,
+.down-brochure p {
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+
+.sell {
+    background-color: #fd8300;
+}
+
+.footer .basis {
+    background-color: #08081a;
+    padding-top: 30px;
+}
+
+.footer .lateral {
+    background-color: #dcdce5;
+}
+
+.footer table {
+    width: 100%;
+}
+
+.footer p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-family: "Arial";
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.footer-line {
+    display: block;
+    text-align: center;
+    background-color: #000014;
+    padding-top: 13.6px;
+    padding-bottom: 13.6px;
+    font-size: 11px;
+    line-height: 18px;
+    color: #fd8300;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.footer-line a {
+    font-size: 11px;
+    line-height: 18px;
+    color: #fd8300;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.icons {
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+}
