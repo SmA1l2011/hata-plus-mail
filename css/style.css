@@ -58,7 +58,8 @@ table {
 }
 
 .phone-menu {
-    padding-left: 103px;
+    display: block;
+    text-align: right;
 }
 
 .header-info {
